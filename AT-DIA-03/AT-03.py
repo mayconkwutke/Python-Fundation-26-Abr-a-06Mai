@@ -125,7 +125,7 @@ print()
 
 # 14. Escreva um programa Python para ler um arquivo de texto inteiro. Arquivo anexo cv000_29590.txt
 print("Exercicio 14 ####")
-txt = open('/home/leogaller/Documents/Freela/Trainning/Python-Fundamentals/Exercicios/cv000_29590.txt')
+txt = open('')
 # print(txt.read()) 
 
 # while True:
@@ -142,7 +142,7 @@ print()
 
 # 16. Escreva um programa Python para ler um arquivo linha por linha e armazená-lo em uma lista.
 # Ao final apresente as linhas 3 e 6
-arquivo_path = '/home/leogaller/Documents/Freela/Trainning/Python-Fundamentals/Dia-4/cv000_29590.txt'
+arquivo_path = 'cv000_29590.txt'
 with open(arquivo_path) as f:
     #Content_list is the list that contains the read lines.     
     content_list = f.readlines()
@@ -170,7 +170,7 @@ print("A quantidade de palavras no texto é = ", conta_palavras(arquivo_path))
 
 ### Solução 2
 def numpalavras():
-    arquivo = open('/home/leogaller/Documents/Freela/Trainning/Python-Fundamentals/Dia-4/cv000_29590.txt', 'r+')
+    arquivo = open('cv000_29590.txt', 'r+')
     str2 = arquivo.read()
     larq = str2.split()
     arquivo.close()
