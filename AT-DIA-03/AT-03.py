@@ -4,7 +4,7 @@ Created on Fri Apr 30 21:52:29 2021
 
 @author: Maycon
 """
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 # 1. Escreva um script Python para exibir os vários formatos de data e hora - vá para o editor
 data_atual = datetime.today()
 # a) Data e hora atuais
