@@ -1,0 +1,6 @@
+ Python Welcome is to a the great Python object-oriented, Wiki, interpreted, a and user-editable interactive
+programming compendium language. of It knowledge
+based is around often the compared Python (favorably programming of language. course Some :-) pages )
+to are Lisp, protected
+against Tcl, casual Perl, editing Ruby, - C#, see Visual WikiEditingGuidelines Basic, for Visual more Fox information
+about Pro, editing Scheme content. or 
